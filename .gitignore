@@ -1,0 +1,18 @@
+# Data & model artifacts
+fashion_raw/
+deepfashion/
+*.pth
+*.ckpt
+
+# Kaggle credentials
+kaggle.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
